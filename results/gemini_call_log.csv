@@ -1,0 +1,353 @@
+setting,model,in_tok,out_tok,cost_usd,latency_ms,attempts
+Gemini zero-shot,gemini-3.7-flash,811,2625,0.010452,23846,1
+Gemini zero-shot,gemini-3.7-flash,854,424,0.0022305,5196,1
+Gemini zero-shot,gemini-3.7-flash,919,1334,0.00569175,12483,1
+Gemini zero-shot,gemini-3.7-flash,825,950,0.00418125,9388,1
+Gemini zero-shot,gemini-3.7-flash,793,863,0.003831,9240,1
+Gemini zero-shot,gemini-3.7-flash,838,815,0.0036847499999999997,7716,1
+Gemini zero-shot,gemini-3.7-flash,883,622,0.0029947500000000004,7170,1
+Gemini zero-shot,gemini-3.7-flash,702,185,0.00122025,3591,1
+Gemini zero-shot,gemini-3.7-flash,706,563,0.0026407500000000003,5784,1
+Gemini zero-shot,gemini-3.7-flash,775,3547,0.013882499999999999,29687,1
+Gemini zero-shot,gemini-3.7-flash,863,1088,0.0047272500000000005,11193,1
+Gemini zero-shot,gemini-3.7-flash,743,776,0.00346725,8136,1
+Gemini zero-shot,gemini-3.7-flash,916,1585,0.00663075,12404,1
+Gemini zero-shot,gemini-3.7-flash,791,1442,0.00600075,13434,1
+Gemini zero-shot,gemini-3.7-flash,875,1726,0.0071287500000000005,14636,1
+Gemini zero-shot,gemini-3.7-flash,747,378,0.0019777500000000003,4927,1
+Gemini zero-shot,gemini-3.7-flash,809,256,0.00156675,3702,1
+Gemini zero-shot,gemini-3.7-flash,874,2190,0.008868000000000001,16678,1
+Gemini zero-shot,gemini-3.7-flash,718,1516,0.0062235,14105,1
+Gemini zero-shot,gemini-3.7-flash,730,1120,0.0047475,11284,1
+Gemini zero-shot,gemini-3.7-flash,849,1883,0.007698,16198,1
+Gemini zero-shot,gemini-3.7-flash,850,332,0.0018825,4747,1
+Gemini zero-shot,gemini-3.7-flash,762,376,0.0019814999999999998,4459,1
+Gemini zero-shot,gemini-3.7-flash,824,956,0.004203,9528,1
+Gemini zero-shot,gemini-3.7-flash,998,2439,0.00989475,21347,1
+Gemini zero-shot,gemini-3.7-flash,799,1035,0.0044805,10534,1
+Gemini zero-shot,gemini-3.7-flash,817,1512,0.00628275,14824,1
+Gemini zero-shot,gemini-3.7-flash,777,582,0.0027652500000000003,6044,1
+Gemini zero-shot,gemini-3.7-flash,704,192,0.001248,3335,1
+Gemini zero-shot,gemini-3.7-flash,874,1978,0.008073,17931,1
+Gemini zero-shot,gemini-3.7-flash,829,602,0.00287925,7331,1
+Gemini zero-shot,gemini-3.7-flash,740,201,0.00130875,3498,1
+Gemini zero-shot,gemini-3.7-flash,732,979,0.00422025,9102,1
+Gemini zero-shot,gemini-3.7-flash,908,2355,0.009512249999999998,21523,1
+Gemini zero-shot,gemini-3.7-flash,859,3045,0.012063,25204,1
+Gemini zero-shot,gemini-3.7-flash,762,1393,0.00579525,12261,1
+Gemini zero-shot,gemini-3.7-flash,785,647,0.003015,5742,1
+Gemini zero-shot,gemini-3.7-flash,789,1967,0.007968,15983,1
+Gemini zero-shot,gemini-3.7-flash,841,1211,0.005172,10061,1
+Gemini zero-shot,gemini-3.7-flash,854,1992,0.0081105,16981,1
+Gemini zero-shot,gemini-3.7-flash,837,1872,0.00764775,15600,1
+Gemini zero-shot,gemini-3.7-flash,842,1251,0.00532275,11580,1
+Gemini zero-shot,gemini-3.7-flash,888,1467,0.00616725,12682,1
+Gemini zero-shot,gemini-3.7-flash,816,542,0.0026444999999999997,6845,1
+Gemini zero-shot,gemini-3.7-flash,919,2395,0.0096705,18625,1
+Gemini zero-shot,gemini-3.7-flash,829,1859,0.007593,16635,1
+Gemini zero-shot,gemini-3.7-flash,940,1328,0.005685,11660,1
+Gemini zero-shot,gemini-3.7-flash,742,2499,0.009927749999999999,20036,1
+Gemini zero-shot,gemini-3.7-flash,807,1427,0.0059565,11261,1
+Gemini zero-shot,gemini-3.7-flash,800,1398,0.0058425,11984,1
+Gemini zero-shot,gemini-3.7-flash,863,3279,0.0129435,25884,1
+Gemini zero-shot,gemini-3.7-flash,909,228,0.00153675,3388,1
+Gemini zero-shot,gemini-3.7-flash,886,2864,0.0114045,24173,1
+Gemini zero-shot,gemini-3.7-flash,955,229,0.001575,3454,1
+Gemini zero-shot,gemini-3.7-flash,792,2990,0.011806500000000001,24295,1
+Gemini zero-shot,gemini-3.7-flash,877,2549,0.0102165,20451,1
+Gemini zero-shot,gemini-3.7-flash,861,2038,0.00828825,17102,1
+Gemini zero-shot,gemini-3.7-flash,760,1653,0.00676875,14459,1
+Gemini zero-shot,gemini-3.7-flash,727,744,0.0033352499999999997,7471,1
+Gemini zero-shot,gemini-3.7-flash,798,440,0.0022485,5452,1
+Gemini zero-shot,gemini-3.7-flash,751,3030,0.01192575,32735,1
+Gemini zero-shot,gemini-3.7-flash,789,983,0.004278,10485,1
+Gemini zero-shot,gemini-3.7-flash,772,665,0.00307275,6739,1
+Gemini zero-shot,gemini-3.7-flash,927,459,0.0024165,5106,1
+Gemini zero-shot,gemini-3.7-flash,896,2328,0.009402000000000002,18726,1
+Gemini zero-shot,gemini-3.7-flash,744,859,0.0037792499999999996,8300,1
+Gemini zero-shot,gemini-3.7-flash,791,343,0.0018795,5598,1
+Gemini zero-shot,gemini-3.7-flash,854,1056,0.0046005,10774,1
+Gemini zero-shot,gemini-3.7-flash,951,1024,0.00455325,10252,1
+Gemini zero-shot,gemini-3.7-flash,825,1092,0.004713750000000001,10602,1
+Gemini zero-shot,gemini-3.7-flash,838,497,0.00249225,5474,1
+Gemini zero-shot,gemini-3.7-flash,791,449,0.0022770000000000004,4798,1
+Gemini zero-shot,gemini-3.7-flash,867,2774,0.01105275,23946,1
+Gemini zero-shot,gemini-3.7-flash,851,2018,0.00820575,17636,1
+Gemini zero-shot,gemini-3.7-flash,809,775,0.003513,7769,1
+Gemini zero-shot,gemini-3.7-flash,832,784,0.003564,8542,1
+Gemini zero-shot,gemini-3.7-flash,909,433,0.0023055,4636,1
+Gemini zero-shot,gemini-3.7-flash,1042,1955,0.00811275,16763,1
+Gemini zero-shot,gemini-3.7-flash,850,1258,0.005355,11928,1
+Gemini zero-shot,gemini-3.7-flash,901,725,0.0033945,7825,1
+Gemini zero-shot,gemini-3.7-flash,801,1187,0.005051999999999999,10054,1
+Gemini zero-shot,gemini-3.7-flash,709,279,0.001578,3541,1
+Gemini zero-shot,gemini-3.7-flash,725,565,0.0026625,6528,1
+Gemini zero-shot,gemini-3.7-flash,881,245,0.0015795,4122,1
+Gemini zero-shot,gemini-3.7-flash,800,1740,0.007125,16601,1
+Gemini zero-shot,gemini-3.7-flash,845,580,0.0028087499999999996,6291,1
+Gemini zero-shot,gemini-3.7-flash,748,199,0.00130725,3483,1
+Gemini zero-shot,gemini-3.7-flash,919,796,0.0036742500000000004,8190,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2677,3910,0.01667025,32478,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2720,1178,0.0064575000000000006,12045,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2785,1363,0.007200000000000001,11538,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2691,1127,0.0062445,9539,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2659,1234,0.006621750000000001,11592,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2704,1354,0.007105499999999999,12329,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2749,1141,0.006340500000000001,12100,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2568,181,0.00260475,3187,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2572,2973,0.013077749999999999,24710,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2641,1274,0.0067582499999999995,10571,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2729,2369,0.0109305,22678,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2609,1214,0.00650925,11128,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2782,2142,0.010119,17351,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2657,2400,0.010992749999999999,19922,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2741,2550,0.011618250000000002,21045,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2613,370,0.0033472499999999995,4599,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2675,304,0.0031462499999999997,4041,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2740,476,0.00384,5439,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2584,1745,0.00848175,15396,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2596,1903,0.009083250000000001,16455,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2715,3878,0.01657875,31514,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2716,199,0.00278325,3578,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2628,1437,0.00735975,12294,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2690,724,0.004732500000000001,8854,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2864,3363,0.014759250000000002,26611,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2665,3275,0.014280000000000001,26383,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2683,1358,0.00710475,12671,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2643,1414,0.0072847499999999996,13391,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2570,202,0.002685,3197,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2740,2286,0.0106275,17842,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2695,1524,0.00773625,11974,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2606,332,0.0031994999999999997,4653,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2598,3834,0.016326,29416,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2774,3324,0.0145455,27876,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2725,5291,0.021884999999999998,41787,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2628,2093,0.00981975,16955,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2651,2336,0.01074825,19660,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2655,1054,0.00594375,8692,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2707,1910,0.00919275,15962,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2720,534,0.0040425,5975,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2703,3615,0.0155835,27574,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2708,1343,0.00706725,12690,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2754,6016,0.0246255,44546,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2682,365,0.0033802499999999996,4560,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2785,1936,0.00934875,15156,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2695,1428,0.007376250000000001,12507,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2806,2542,0.011637,21191,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2608,1447,0.00738225,13971,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2673,2266,0.01050225,16836,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2666,3116,0.013684499999999999,25162,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2729,2016,0.00960675,15439,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2775,352,0.00340125,4071,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2752,6703,0.02720025,53558,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2821,353,0.0034395,4445,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2658,2599,0.011739750000000002,21055,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2743,1996,0.009542249999999999,16597,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2727,2346,0.01084275,19647,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2626,1123,0.0061807500000000005,62161,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2593,1762,0.008552249999999999,13514,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2664,242,0.0029055,3268,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2617,1828,0.00881775,16329,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2655,765,0.00486,9051,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2638,1608,0.008008500000000002,13339,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2793,955,0.0056760000000000005,8797,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2762,3586,0.015519000000000002,28666,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2610,5185,0.021401250000000004,41723,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2657,680,0.00454275,7384,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2720,249,0.00297375,3467,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2817,1426,0.00746025,13268,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2691,921,0.005472,9142,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2704,720,0.0047279999999999996,8046,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2657,227,0.002844,3451,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2733,1868,0.00905475,16313,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2717,2050,0.009725250000000001,17498,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2675,1618,0.00807375,15156,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2698,1516,0.0077085,15940,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2775,912,0.005501250000000001,8657,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2908,1028,0.006036,9984,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2716,2629,0.01189575,21898,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2767,639,0.0044715,5908,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2667,2460,0.01122525,19964,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2575,597,0.00417,6292,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2591,735,0.0046995000000000006,6811,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2747,302,0.0031927500000000003,4357,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2666,2147,0.010050749999999999,18721,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2711,569,0.004167,6098,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2614,741,0.00473925,8050,1
+"Gemini few-shot, k = 1",gemini-3.7-flash,2785,422,0.0036712500000000005,5432,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10506,5207,0.02740575,40385,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10549,1125,0.012130499999999999,11171,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10614,223,0.00879675,3428,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10520,629,0.01024875,7597,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10488,619,0.010187250000000002,6393,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10533,1251,0.012591000000000001,12635,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10578,1426,0.013281,14545,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10397,189,0.0085065,3887,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10401,645,0.0102195,5754,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10470,2788,0.0183075,23510,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10558,1356,0.013003500000000001,13522,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10438,628,0.010183499999999998,6044,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10611,542,0.00999075,7069,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10486,3822,0.022197,25818,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10570,592,0.0101475,6103,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10442,615,0.010137750000000001,46164,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10504,272,0.008898,4049,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10569,331,0.009167999999999999,3900,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10413,2631,0.017676,21629,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10425,1815,0.014624999999999999,16340,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10544,3397,0.02064675,25242,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10545,213,0.0087075,3240,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10457,462,0.009575249999999999,5152,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10519,2042,0.015546750000000002,15772,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10693,5283,0.027831,36630,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10494,3641,0.02152425,25505,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10512,751,0.010700250000000001,7752,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10472,4463,0.02459025,34698,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10399,225,0.008643000000000001,4352,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10569,3585,0.0213705,26720,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10524,667,0.01039425,6827,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10435,226,0.00867375,3713,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10427,3059,0.019291500000000003,22971,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10603,3934,0.02270475,34285,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10554,5914,0.030092999999999998,33297,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10457,321,0.009046499999999999,4152,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10480,3500,0.020984999999999997,25473,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10484,7185,0.034806750000000004,47812,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10536,4660,0.025377,38302,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10549,3623,0.021497999999999996,25423,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10532,4288,0.023979,31748,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10537,3032,0.019272749999999998,26509,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10583,7957,0.037776000000000004,58680,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10511,313,0.009056999999999999,4062,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10614,2616,0.0177705,21491,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10524,4280,0.023943,35374,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10635,2346,0.01677375,17191,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10437,2953,0.0189015,25171,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10502,3216,0.019936500000000003,22434,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10495,7053,0.03432,47212,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10558,2766,0.018291,20605,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10604,326,0.0091755,4929,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10581,5250,0.027623250000000002,44516,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10650,434,0.009615,5719,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10487,1684,0.01418025,15157,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10572,3130,0.0196665,21094,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10556,2291,0.016508250000000002,19782,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10455,326,0.00906375,6307,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10422,5970,0.030203999999999998,48795,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10493,255,0.008826,3906,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10446,5031,0.026700750000000002,33432,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10484,1602,0.013870500000000001,14960,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10467,2721,0.018054,20693,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10622,733,0.010715249999999999,11048,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10591,7031,0.0343095,53019,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10439,4651,0.025270499999999998,38079,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10486,1000,0.0116145,10249,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10549,208,0.008691749999999998,3154,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10646,1111,0.012150749999999998,12270,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10520,1296,0.012750000000000001,12052,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10533,622,0.010232250000000002,6604,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10486,278,0.008907,3943,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10562,2503,0.01730775,20898,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10546,3203,0.01992075,24729,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10504,1447,0.01330425,14153,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10527,1794,0.01462275,14406,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10604,1199,0.01244925,10816,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10737,1514,0.01373025,11885,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10545,4932,0.026403749999999997,37788,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10596,860,0.011172,8104,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10496,1144,0.012162000000000001,11268,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10404,146,0.0083505,2852,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10420,220,0.00864,3508,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10576,346,0.0092295,18409,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10495,3583,0.0213075,29611,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10540,1387,0.01310625,14228,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10443,1011,0.011623499999999998,11189,1
+"Gemini few-shot, k = 5",gemini-3.7-flash,10614,667,0.01046175,6332,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20949,6252,0.039156750000000004,46021,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20992,1486,0.021316500000000002,15923,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,21057,1643,0.021954,17640,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20963,2041,0.023376,18622,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20931,1182,0.020130750000000003,12797,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20976,2707,0.025883250000000003,37014,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,21021,981,0.019444500000000003,14528,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20840,179,0.016301250000000003,3525,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20844,2231,0.02399925,20183,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20913,3689,0.029518500000000003,31254,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,21001,1221,0.0203295,12000,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20881,2434,0.02478825,23027,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,21054,921,0.019244249999999997,9665,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20929,359,0.017043,4618,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,21013,3100,0.02738475,23968,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20885,552,0.01773375,6404,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20947,339,0.016981500000000004,4392,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,21012,2439,0.02490525,20931,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20856,1641,0.02179575,20024,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20868,7440,0.043551000000000006,59068,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20987,2872,0.02651025,22415,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20988,285,0.01680975,4227,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20900,292,0.016769999999999997,4209,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20962,1011,0.01951275,10584,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,21136,1778,0.022519499999999998,15493,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20937,6212,0.03899775,45448,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20955,1232,0.02033625,11862,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20915,3596,0.029171249999999996,30353,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20842,180,0.016306499999999998,4066,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,21012,5930,0.0379965,48806,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20967,2949,0.026784,29504,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20878,425,0.01725225,5615,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20870,9112,0.0498225,63228,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,21046,3024,0.027124500000000003,24218,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20997,4937,0.0342615,37256,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20900,1505,0.021318749999999997,13233,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20923,2769,0.026076000000000002,23792,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20927,3690,0.029532750000000003,28373,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20979,2327,0.024460500000000003,19498,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20992,7302,0.0431265,61890,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20975,10308,0.05438625,76499,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20980,1527,0.021461249999999998,13613,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,21026,3533,0.02901825,28965,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20954,346,0.017013,5327,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,21057,4372,0.03218775,34914,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20967,5944,0.03801525,51772,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,21078,1861,0.02278725,20841,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20880,1485,0.02122875,12604,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20945,4000,0.03070875,33000,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20938,6241,0.039107249999999996,47805,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,21001,7063,0.042237,52764,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,21047,426,0.017382750000000002,6305,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,21024,2253,0.024216750000000002,33136,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,21093,427,0.017421,7524,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20930,7452,0.0436425,53821,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,21015,3358,0.028353749999999997,28260,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20999,5817,0.037563,43204,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20898,1937,0.02293725,15424,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20865,3529,0.028882500000000005,26962,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20936,326,0.016924500000000002,4300,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20889,7413,0.043465500000000004,55065,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20927,1130,0.01993275,13602,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20910,5968,0.0380625,45228,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,21065,805,0.0188175,11537,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,21034,9515,0.051456749999999996,72190,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20882,1245,0.02033025,12538,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20929,1633,0.0218205,14949,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20992,323,0.01695525,4648,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,21089,1796,0.022551750000000002,16849,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20963,1905,0.022866,16924,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20976,522,0.017689500000000004,6782,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20929,224,0.01653675,4019,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,21005,3651,0.029445,30083,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20989,2274,0.02426925,21002,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20947,2141,0.023739000000000003,17491,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20970,1630,0.02184,14054,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,21047,1320,0.02073525,13239,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,21180,2055,0.02359125,18443,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20988,2690,0.025828499999999997,22140,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,21039,619,0.0181005,7264,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20939,876,0.01898925,8521,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20847,184,0.01632525,6257,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20863,363,0.017008500000000003,5050,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,21019,274,0.01679175,4059,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20938,3088,0.0272835,27369,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20983,3562,0.029094750000000003,30048,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,20886,2558,0.025256999999999998,20448,1
+"Gemini few-shot, k = 10",gemini-3.7-flash,21057,470,0.01755525,5919,1
