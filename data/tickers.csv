@@ -1,0 +1,111 @@
+ticker,company,sector
+APP,AppLovin,Communication Services
+FOXA,Fox Corporation (Class A),Communication Services
+GOOG,Alphabet Inc. (Class C),Communication Services
+LYV,Live Nation Entertainment,Communication Services
+NWS,News Corp (Class B),Communication Services
+NWSA,News Corp (Class A),Communication Services
+SKYD,Skydance Corporation,Communication Services
+TKO,TKO Group Holdings,Communication Services
+TMUS,T-Mobile US,Communication Services
+TTWO,Take-Two Interactive,Communication Services
+APTV,Aptiv,Consumer Discretionary
+BBY,Best Buy,Consumer Discretionary
+CCL,Carnival Corporation,Consumer Discretionary
+CVNA,Carvana,Consumer Discretionary
+EXPE,Expedia Group,Consumer Discretionary
+GPC,Genuine Parts Company,Consumer Discretionary
+LVS,Las Vegas Sands,Consumer Discretionary
+PHM,PulteGroup,Consumer Discretionary
+RCL,Royal Caribbean Group,Consumer Discretionary
+TJX,TJX Companies,Consumer Discretionary
+CASY,Casey's,Consumer Staples
+EL,Estée Lauder Companies (The),Consumer Staples
+GIS,General Mills,Consumer Staples
+HSY,Hershey Company (The),Consumer Staples
+KO,Coca-Cola Company (The),Consumer Staples
+KVUE,Kenvue,Consumer Staples
+MDLZ,Mondelez International,Consumer Staples
+PM,Philip Morris International,Consumer Staples
+SYY,Sysco,Consumer Staples
+TSN,Tyson Foods,Consumer Staples
+BKR,Baker Hughes,Energy
+CVX,Chevron Corporation,Energy
+EQT,EQT Corporation,Energy
+MPC,Marathon Petroleum,Energy
+OXY,Occidental Petroleum,Energy
+SLB,Schlumberger,Energy
+TPL,Texas Pacific Land Corporation,Energy
+TRGP,Targa Resources,Energy
+VLO,Valero Energy,Energy
+XOM,ExxonMobil,Energy
+ACGL,Arch Capital Group,Financials
+AMP,Ameriprise Financial,Financials
+AXP,American Express,Financials
+BEN,Franklin Resources,Financials
+CBOE,Cboe Global Markets,Financials
+GS,Goldman Sachs,Financials
+HBAN,Huntington Bancshares,Financials
+L,Loews Corporation,Financials
+MET,MetLife,Financials
+V,Visa Inc.,Financials
+A,Agilent Technologies,Health Care
+CI,Cigna,Health Care
+COR,Cencora,Health Care
+DVA,DaVita,Health Care
+GILD,Gilead Sciences,Health Care
+HSIC,Henry Schein,Health Care
+IQV,IQVIA,Health Care
+TECH,Bio-Techne,Health Care
+VEEV,Veeva Systems,Health Care
+VRTX,Vertex Pharmaceuticals,Health Care
+ADP,Automatic Data Processing,Industrials
+ALLE,Allegion,Industrials
+BA,Boeing,Industrials
+CTAS,Cintas,Industrials
+ETN,Eaton Corporation,Industrials
+GD,General Dynamics,Industrials
+JCI,Johnson Controls,Industrials
+LDOS,Leidos,Industrials
+NSC,Norfolk Southern,Industrials
+ODFL,Old Dominion,Industrials
+AMAT,Applied Materials,Information Technology
+AMD,Advanced Micro Devices,Information Technology
+APH,Amphenol,Information Technology
+DDOG,Datadog,Information Technology
+INTU,Intuit,Information Technology
+KLAC,KLA Corporation,Information Technology
+LITE,Lumentum,Information Technology
+MRVL,Marvell Technology,Information Technology
+ORCL,Oracle Corporation,Information Technology
+ZBRA,Zebra Technologies,Information Technology
+ALB,Albemarle Corporation,Materials
+BALL,Ball Corporation,Materials
+DOW,Dow Inc.,Materials
+ECL,Ecolab,Materials
+IP,International Paper,Materials
+LYB,LyondellBasell,Materials
+NEM,Newmont,Materials
+SHW,Sherwin-Williams,Materials
+STLD,Steel Dynamics,Materials
+VMC,Vulcan Materials Company,Materials
+BXP,"BXP, Inc.",Real Estate
+CBRE,CBRE Group,Real Estate
+DLR,Digital Realty,Real Estate
+DOC,Healthpeak Properties,Real Estate
+FRT,Federal Realty Investment Trust,Real Estate
+MAA,Mid-America Apartment Communities,Real Estate
+SPG,Simon Property Group,Real Estate
+UDR,"UDR, Inc.",Real Estate
+VTR,Ventas,Real Estate
+WELL,Welltower,Real Estate
+AEE,Ameren,Utilities
+AWK,American Water Works,Utilities
+CMS,CMS Energy,Utilities
+DTE,DTE Energy,Utilities
+DUK,Duke Energy,Utilities
+EXC,Exelon,Utilities
+PEG,Public Service Enterprise Group,Utilities
+PNW,Pinnacle West Capital,Utilities
+PPL,PPL Corporation,Utilities
+WEC,WEC Energy Group,Utilities
