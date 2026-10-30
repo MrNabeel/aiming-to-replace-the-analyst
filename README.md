@@ -126,7 +126,7 @@ The course requires an AI use note on every submission, and I keep the same rule
 
 ## Course
 
-INFO 367, Applied Large Language Models for Business, Montclair State University, Fall 2026. Deliverable 1 of the team project, submitted October 27, 2026. Graded 95/100.
+INFO 367, Applied Large Language Models for Business, Montclair State University, Fall 2026. Deliverable 1 of the team project, submitted October 27, 2026. Group project grade: 95/100.
 
 ## About me
 
