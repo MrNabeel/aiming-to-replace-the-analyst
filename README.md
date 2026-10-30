@@ -1,6 +1,6 @@
 # Aiming to replace the analyst?
 
-### What an LLM labeling project taught me about the human baseline, and what I would tell a business before it automates anything
+### Two people read 30 earnings releases and called the stock's move right 33% of the time. An AI got 58%. Neither can see what the market sees. Here is what that means for a business that wants to automate the reading.
 
 *INFO 367, Applied Large Language Models for Business, Montclair State University, Fall 2026. Team project, Deliverable 1. I led the team of four.*
 
